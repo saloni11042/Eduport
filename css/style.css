@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    overflow-x: hidden;
+    font-family: "Heebo", sans-serif;
+}
+.font-small{
+    font-size: 14px;
+}
+.pink-btn{
+    background-color: #FBE9EB;
+    color: #D6293E;
+}
